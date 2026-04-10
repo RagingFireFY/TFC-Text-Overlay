@@ -1,25 +1,7 @@
+这是一个在主屏幕上显示[TerraFirmaCraft: The Next Generation](https://github.com/TerraFirmaCraft/TerraFirmaCraft)的气候、温度、降雨、季节等信息的mod。
 
-Installation information
-=======
+由于是第一次写mod，我参考了[SeasonHud](https://github.com/IanMods/SeasonHud)和[SimpleTextOverlay](https://github.com/wendall911/SimpleTextOverlay)的代码。
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+A mod that displays climate, temperature, rainfall, seasons, and other information of [TerraFirmaCraft: The Next Generation](https://github.com/TerraFirmaCraft/TerraFirmaCraft) on the main screen.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Since it was my first time writing a mod, I referred to the code from [SeasonHud](https://github.com/IanMods/SeasonHud) and [SimpleTextOverlay](https://github.com/wendall911/SimpleTextOverlay).
